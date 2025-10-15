@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Usukhbayar</h1>
 <h3 align="center">A developer/student from Mongolia</h3>
 
-- 🔭 I’m currently working on [AI Chat Assistant](https://github.com/atuuuuuuu/AI-ChatAssistant)
+- 🔭 I’m currently working on [AI Chat Assistant](https://github.com/atuuuuuuu/AI-ChatAssistant) And More!!!
 
 - 🌱 I’m currently learning **C++,HTML,JS,CSS**
 
-- 📫 How to reach me **idertsogusukhbayar@gmail.com**
+- 📫 How to reach me: **idertsogusukhbayar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
