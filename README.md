@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="atu: 3rd-year student at New Mongol College of Technology. Curious about how things work, so I build small tools to find out." width="100%">
+  <img src="assets/banner-light.svg" alt="Usukhbayar: 3rd-year student at New Mongol College of Technology. Curious about how things work, so I build small tools to find out." width="100%">
 </picture>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=atuuuuuuu&style=flat-square&color=6f42c1&label=profile+views" alt="Profile views">
 </p>
 
-## 👋 Hey, I'm atu
+## 👋 Hey, I'm Usukhbayar.
 
 I'm a **3rd-year student at New Mongol College of Technology**. I like building small, focused tools: the kind you install once and then forget about because they just work.
 Most of what I make lives on the Mac or in the browser.
