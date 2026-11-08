@@ -13,12 +13,11 @@
 ## 👋 Hey, I'm atu
 
 I'm a **3rd-year student at New Mongol College of Technology**. I like building small, focused tools: the kind you install once and then forget about because they just work.
-Most of what I make lives on the Mac or in the browser, and when I'm not coding I'm usually making beats.
+Most of what I make lives on the Mac or in the browse.
 
 - 🛠️ Building **[Convrt](https://github.com/atuuuuuuu/Convrt)**, an offline file converter for the Mac menu bar
 - 🌍 Hacking on **Earth Jukebox** for NASA Space Apps 2026: turning NASA ocean temperature maps into music you can hear
 - 🌱 Learning more Swift, WebGL and audio programming
-- 🎧 Making beats in FL Studio as **atu**
 
 ## 🚀 Featured projects
 
