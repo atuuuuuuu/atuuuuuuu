@@ -17,7 +17,7 @@ Most of what I make lives on the Mac or in the browser.
 
 - 🛠️ Building **[Convrt](https://github.com/atuuuuuuu/Convrt)**, an offline file converter for the Mac menu bar
 - 🌍 Hacking on **Earth Jukebox** for NASA Space Apps 2026: turning NASA ocean temperature maps into music you can hear
-- 📷 Learning from **[photo-renamer](https://github.com/atuuuuuuu/photo-renamer)**, a demo Claude wrote for me to study (it renames photos by the date they were taken). Next I'm rebuilding it myself from scratch.
+- 📷 Made **[photo-renamer](https://github.com/atuuuuuuu/photo-renamer)**
 - 🌱 Learning more Swift, WebGL and audio programming
 
 ## 🚀 Featured projects
