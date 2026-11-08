@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="atu: 3rd-year student at New Mongol College of Technology. I build small tools that make computers nicer, and I make beats." width="100%">
+  <img src="assets/banner-light.svg" alt="atu: 3rd-year student at New Mongol College of Technology. I build small tools that make computers nicer" width="100%">
 </picture>
 
 <p align="center">
