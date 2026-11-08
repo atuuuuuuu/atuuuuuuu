@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="atu: 3rd-year student at New Mongol College of Technology. I build small tools that make computers nicer" width="100%">
+  <img src="assets/banner-light.svg" alt="atu: 3rd-year student at New Mongol College of Technology. Curious about how things work, so I build small tools to find out." width="100%">
 </picture>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 👋 Hey, I'm atu
 
 I'm a **3rd-year student at New Mongol College of Technology**. I like building small, focused tools: the kind you install once and then forget about because they just work.
-Most of what I make lives on the Mac or in the browse.
+Most of what I make lives on the Mac or in the browser.
 
 - 🛠️ Building **[Convrt](https://github.com/atuuuuuuu/Convrt)**, an offline file converter for the Mac menu bar
 - 🌍 Hacking on **Earth Jukebox** for NASA Space Apps 2026: turning NASA ocean temperature maps into music you can hear
@@ -69,7 +69,7 @@ Most of what I make lives on the Mac or in the browse.
 <img src="https://img.shields.io/badge/SwiftUI-0a84ff?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"> <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
 
 **Tools**<br>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/🎹_FL_Studio-FF7300?style=for-the-badge" alt="FL Studio">
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
 ## 🎯 Right now
 
@@ -77,7 +77,7 @@ Most of what I make lives on the Mac or in the browse.
 > studying      3rd year @ New Mongol College of Technology
 > shipping      Convrt beta, offline file conversion for macOS
 > hacking       Earth Jukebox for NASA Space Apps 2026
-> producing     beats in FL Studio
+> learning      Swift, WebGL and audio programming
 ```
 
 <p align="center">

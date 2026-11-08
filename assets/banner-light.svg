@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="atu: 3rd-year student at New Mongol College of Technology. Builds tools, makes beats.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="atu: 3rd-year student at New Mongol College of Technology. Curious about how things work, so I build small tools to find out.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#eef4ff"/>
@@ -33,9 +33,7 @@
       @keyframes tw { 0%, 100% { opacity: .25 } 50% { opacity: 1 } }
       .orbit { transform-origin: 945px 160px; animation: spin 26s linear infinite; }
       @keyframes spin { to { transform: rotate(360deg) } }
-      .bar { transform-box: fill-box; transform-origin: center; animation: eq 1.6s ease-in-out infinite; }
-      @keyframes eq { 0%, 100% { transform: scaleY(.45) } 50% { transform: scaleY(1) } }
-      @media (prefers-reduced-motion: reduce) { .star, .orbit, .bar { animation: none } }
+      @media (prefers-reduced-motion: reduce) { .star, .orbit { animation: none } }
     </style>
   </defs>
 
@@ -65,18 +63,8 @@
     <!-- text -->
     <text class="t" x="72" y="128" font-size="84" font-weight="800" fill="url(#name)" letter-spacing="-2">atu</text>
     <text class="t" x="76" y="172" font-size="24" font-weight="600" fill="#1b2550">3rd-year student · New Mongol College of Technology</text>
-    <text class="t" x="76" y="208" font-size="19" fill="#4a5680">I build small tools that make computers nicer, and I make beats.</text>
+    <text class="t" x="76" y="208" font-size="19" fill="#4a5680">Curious about how things work, so I build small tools to find out.</text>
 
-    <!-- sound bars -->
-    <g fill="url(#wave)">
-      <rect class="bar" x="76"  y="236" width="6" height="34" rx="3"/>
-      <rect class="bar" x="88"  y="230" width="6" height="46" rx="3" style="animation-delay:.2s"/>
-      <rect class="bar" x="100" y="240" width="6" height="26" rx="3" style="animation-delay:.4s"/>
-      <rect class="bar" x="112" y="226" width="6" height="54" rx="3" style="animation-delay:.1s"/>
-      <rect class="bar" x="124" y="236" width="6" height="34" rx="3" style="animation-delay:.5s"/>
-      <rect class="bar" x="136" y="232" width="6" height="42" rx="3" style="animation-delay:.3s"/>
-      <rect class="bar" x="148" y="242" width="6" height="22" rx="3" style="animation-delay:.6s"/>
-    </g>
-    <text class="t" x="170" y="259" font-size="15" fill="#6a76a0" letter-spacing="2">SWIFT · JAVASCRIPT · PYTHON · BEATS</text>
+    <text class="t" x="78" y="256" font-size="15" fill="#6a76a0" letter-spacing="2">SWIFT · JAVASCRIPT · PYTHON · C++</text>
   </g>
 </svg>
