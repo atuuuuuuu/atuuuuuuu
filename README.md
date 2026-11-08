@@ -17,6 +17,7 @@ Most of what I make lives on the Mac or in the browser.
 
 - 🛠️ Building **[Convrt](https://github.com/atuuuuuuu/Convrt)**, an offline file converter for the Mac menu bar
 - 🌍 Hacking on **Earth Jukebox** for NASA Space Apps 2026: turning NASA ocean temperature maps into music you can hear
+- 📷 Made **[photo-renamer](https://github.com/atuuuuuuu/photo-renamer)**, which renames photos by the date they were taken
 - 🌱 Learning more Swift, WebGL and audio programming
 
 ## 🚀 Featured projects
@@ -37,7 +38,7 @@ Most of what I make lives on the Mac or in the browser.
     <td width="50%" valign="top">
       <h3>🌍 Earth Jukebox</h3>
       <p><b>NASA Space Apps 2026: The Earth Information Jukebox.</b><br>
-      NASA sea surface temperature maps become music, live in the browser. A 3D WebGL globe shows what's playing, El Niño rings a bell, and you can tap the ocean to hear it. Built accessibility first: everything works with a keyboard and a screen reader.</p>
+      NASA sea surface temperature maps become music, live in the browser: warmer than normal sounds higher, and the ocean moves from your left ear to your right. A 3D WebGL globe shows what's playing, El Niño rings a bell, you can tap the ocean to hear it, and <i>Hear the change</i> plays two months back to back. Built accessibility first: everything works with a keyboard and a screen reader.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
       <img src="https://img.shields.io/badge/Tone.js-f734d7?style=flat-square" alt="Tone.js">
@@ -46,12 +47,22 @@ Most of what I make lives on the Mac or in the browser.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📷 <a href="https://github.com/atuuuuuuu/photo-renamer">photo-renamer</a></h3>
+      <p><b><code>IMG_0042.JPG</code> → <code>2019-07-14_15-32-08.jpg</code></b><br>
+      Renames badly named photos by the date they were taken. It reads the EXIF data byte by byte with no imaging library, previews before changing anything, never overwrites a file, and keeps an undo log.</p>
+      <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3">
+      <img src="https://img.shields.io/badge/no-dependencies-2ea44f?style=flat-square" alt="No dependencies">
+      <img src="https://img.shields.io/badge/undo-built_in-6f42c1?style=flat-square" alt="Undo built in">
+    </td>
+    <td width="50%" valign="top">
       <h3>🖥️ <a href="https://github.com/atuuuuuuu/hubbercc">Hubber.cc Desktop</a></h3>
       <p>A desktop version of Hubber.cc for Windows, packaged as a portable app with Electron.</p>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🌐 <a href="https://github.com/atuuuuuuu/site">site</a></h3>
       <p>My corner of the web: a hand-written HTML page, no frameworks.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
