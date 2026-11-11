@@ -46,10 +46,10 @@ Most of what I make lives on the Mac or in the browser.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/atuuuuuuu/hubbercc">Hubber.cc Desktop</a></h3>
-      <p>A desktop version of Hubber.cc for Windows, packaged as a portable app with Electron.</p>
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <h3>🤖 <a href="https://github.com/atuuuuuuu/AI-ChatAssistant">AI ChatAssistant</a></h3>
+      <p>A voice-controlled Chrome extension that searches, navigates, and describes web pages using on-device Gemini Nano. Built for a school assignment.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension">
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/atuuuuuuu/site">site</a></h3>
