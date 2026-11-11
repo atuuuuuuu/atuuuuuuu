@@ -1,0 +1,39 @@
+{
+  "header": "atu@github",
+  "uptime_years": 18,
+  "sections": [
+    {
+      "title": null,
+      "rows": [
+        ["OS", "Windows, macOS"],
+        ["Uptime", "{uptime} years"],
+        ["Host", "New Mongol College of Technology"],
+        ["Kernel", "3rd-year student"],
+        ["IDE", "VS Code, IntelliJ IDEA, Xcode"],
+        null,
+        ["Languages.Programming", "Swift, JS, Python, C++, Java"],
+        ["Languages.Real", "Mongolian, English"],
+        null,
+        ["Hobbies.Software", "Small tools that just work"],
+        ["Hobbies.Events", "NASA Space Apps 2026"]
+      ]
+    },
+    {
+      "title": "Projects",
+      "rows": [
+        ["Convrt", "Offline file converter for macOS"],
+        ["photo-renamer", "Rename photos by date taken"],
+        ["study-timer", "Pomodoro focus timer"],
+        ["budget-tracker", "Family budget in one file"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email", "Idertsogusukhbayar@gmail.com"],
+        ["GitHub", "atuuuuuuu"]
+      ]
+    }
+  ],
+  "github_user": "atuuuuuuu"
+}

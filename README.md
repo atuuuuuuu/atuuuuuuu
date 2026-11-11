@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Usukhbayar: 3rd-year student at New Mongol College of Technology. Curious about how things work, so I build small tools to find out." width="100%">
-</picture>
+<p align="center">
+  <img src="assets/card.svg" alt="atu@github: ASCII art of my cat in glasses, next to my info, projects, contact and GitHub stats." width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Mongolia-0f1534?style=flat-square" alt="Based in Mongolia">
