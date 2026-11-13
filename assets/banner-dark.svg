@@ -1,70 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="atu: 3rd-year student at New Mongol College of Technology. Curious about how things work, so I build small tools to find out.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+  <title id="t">Usukhbayar (atu)</title>
+  <desc id="d">Curious about how things work, so I build small tools to find out. Based in Ulaanbaatar, Mongolia.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070b1a"/>
-      <stop offset="0.55" stop-color="#0f1534"/>
-      <stop offset="1" stop-color="#1b1446"/>
+    <linearGradient id="g" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#2bb5ad"/><stop offset="1" stop-color="#4c8dff"/>
     </linearGradient>
-    <radialGradient id="planet" cx="0.35" cy="0.32" r="0.75">
-      <stop offset="0" stop-color="#7fd3ff"/>
-      <stop offset="0.45" stop-color="#2f6fe0"/>
-      <stop offset="1" stop-color="#11205e"/>
-    </radialGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#4b8dff" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#4b8dff" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#9cc8ff"/>
-    </linearGradient>
-    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff8a3d" stop-opacity="0"/>
-      <stop offset="0.25" stop-color="#ff8a3d"/>
-      <stop offset="0.75" stop-color="#ffcf5c"/>
-      <stop offset="1" stop-color="#ffcf5c" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="front"><rect x="780" y="160" width="330" height="60"/></clipPath>
-    <clipPath id="round"><rect width="1200" height="320" rx="22"/></clipPath>
-    <style>
-      .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
-      .star { fill: #fff; animation: tw 4s ease-in-out infinite; }
-      .s2 { animation-delay: 1.3s; } .s3 { animation-delay: 2.6s; }
-      @keyframes tw { 0%, 100% { opacity: .25 } 50% { opacity: 1 } }
-      .orbit { transform-origin: 945px 160px; animation: spin 26s linear infinite; }
-      @keyframes spin { to { transform: rotate(360deg) } }
-      @media (prefers-reduced-motion: reduce) { .star, .orbit { animation: none } }
-    </style>
   </defs>
-
-  <g clip-path="url(#round)">
-    <rect width="1200" height="320" fill="url(#bg)"/>
-
-    <!-- stars -->
-    <g>
-      <circle class="star" cx="80" cy="40" r="1.4"/><circle class="star s2" cx="190" cy="270" r="1.1"/>
-      <circle class="star s3" cx="320" cy="30" r="1.2"/><circle class="star" cx="460" cy="290" r="1"/>
-      <circle class="star s2" cx="540" cy="52" r="1.5"/><circle class="star s3" cx="640" cy="250" r="1.1"/>
-      <circle class="star" cx="720" cy="36" r="1"/><circle class="star s2" cx="790" cy="292" r="1.3"/>
-      <circle class="star s3" cx="1120" cy="40" r="1.4"/><circle class="star" cx="1160" cy="250" r="1.1"/>
-      <circle class="star s2" cx="1060" cy="295" r="1"/><circle class="star s3" cx="610" cy="140" r="0.9"/>
-      <circle class="star" cx="40" cy="190" r="1"/><circle class="star s3" cx="1180" cy="140" r="0.9"/>
-    </g>
-
-    <!-- planet with orbit -->
-    <circle cx="945" cy="160" r="150" fill="url(#glow)"/>
-    <ellipse cx="945" cy="160" rx="150" ry="38" fill="none" stroke="#9cc8ff" stroke-opacity=".35" stroke-width="1.5" transform="rotate(-14 945 160)"/>
-    <circle cx="945" cy="160" r="86" fill="url(#planet)"/>
-    <path d="M880 130 q30 -18 60 -6 t52 4" fill="none" stroke="#bfe6ff" stroke-opacity=".35" stroke-width="3" stroke-linecap="round"/>
-    <path d="M890 190 q40 14 80 0" fill="none" stroke="#bfe6ff" stroke-opacity=".25" stroke-width="3" stroke-linecap="round"/>
-    <g transform="rotate(-14 945 160)"><ellipse cx="945" cy="160" rx="150" ry="38" fill="none" stroke="#9cc8ff" stroke-opacity=".35" stroke-width="1.5" clip-path="url(#front)"/></g>
-    <g class="orbit"><circle cx="1095" cy="160" r="6" fill="#ffcf5c"/></g>
-
-    <!-- text -->
-    <text class="t" x="72" y="128" font-size="84" font-weight="800" fill="url(#name)" letter-spacing="-2">atu</text>
-    <text class="t" x="76" y="172" font-size="24" font-weight="600" fill="#dbe7ff">3rd-year student · New Mongol College of Technology</text>
-    <text class="t" x="76" y="208" font-size="19" fill="#93a3c9">Curious about how things work, so I build small tools to find out.</text>
-
-    <text class="t" x="78" y="256" font-size="15" fill="#6f7fa8" letter-spacing="2">SWIFT · JAVASCRIPT · PYTHON · C++</text>
+  <style>
+    .b { transform-box: fill-box; transform-origin: center; animation: p 2.4s ease-in-out infinite; }
+    @keyframes p { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(.62); } }
+    @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="398" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="24" fill="#8b949e">
+    <text x="72" y="104"><tspan fill="#2bb5ad">●</tspan>  atu · ulaanbaatar, mongolia</text>
   </g>
+  <text x="68" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-3" fill="#e6edf3">Usukhbayar</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="31" fill="#8b949e">
+    <text x="72" y="282">Curious about how things work,</text>
+    <text x="72" y="324">so I build small tools to find out.</text>
+  </g>
+  <g>
+    <rect class="b" style="animation-delay:0.00s" x="752" y="187.0" width="9" height="26.0" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.13s" x="767" y="174.7" width="9" height="50.5" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.26s" x="782" y="157.9" width="9" height="84.3" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.39s" x="797" y="145.5" width="9" height="109.0" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.52s" x="812" y="147.1" width="9" height="105.7" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.65s" x="827" y="166.1" width="9" height="67.8" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.78s" x="842" y="178.0" width="9" height="44.0" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.91s" x="857" y="150.5" width="9" height="98.9" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.04s" x="872" y="138.3" width="9" height="123.4" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.17s" x="887" y="145.5" width="9" height="108.9" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.30s" x="902" y="165.1" width="9" height="69.8" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.43s" x="917" y="183.1" width="9" height="33.9" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.56s" x="932" y="186.5" width="9" height="27.0" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.69s" x="947" y="176.3" width="9" height="47.4" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.82s" x="962" y="158.6" width="9" height="82.8" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:1.95s" x="977" y="148.7" width="9" height="102.6" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:2.08s" x="992" y="157.0" width="9" height="86.1" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:2.21s" x="1007" y="182.7" width="9" height="34.6" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:2.34s" x="1022" y="159.4" width="9" height="81.2" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.07s" x="1037" y="136.4" width="9" height="127.2" rx="4.5" fill="#e8743b"/>
+    <rect class="b" style="animation-delay:0.20s" x="1052" y="132.3" width="9" height="135.4" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.33s" x="1067" y="146.6" width="9" height="106.9" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.46s" x="1082" y="169.6" width="9" height="60.7" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.59s" x="1097" y="184.6" width="9" height="30.8" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.72s" x="1112" y="175.5" width="9" height="49.0" rx="4.5" fill="url(#g)"/>
+    <rect class="b" style="animation-delay:0.85s" x="1127" y="176.8" width="9" height="46.4" rx="4.5" fill="url(#g)"/>
+  </g>
+  <text x="752" y="336" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="20" fill="#8b949e">code · tools · music</text>
 </svg>

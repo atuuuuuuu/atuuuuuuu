@@ -1,75 +1,98 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Usukhbayar (atu), Ulaanbaatar, Mongolia. Curious about how things work, so I build small tools to find out." width="100%">
+</picture>
 
-## 👋 Hey, I'm Usukhbayar.
+<br>
 
-I'm a **3rd-year student at New Mongol College of Technology**. I like building small, focused tools: the kind you install once and then forget about because they just work.
-Most of what I make lives on the Mac or in the browser.
+I'm a 3rd-year student at **New Mongol College of Technology** in Ulaanbaatar. I build small, focused tools for the Mac
+and the browser: the kind that do one job well and keep your files and your data on your own device.
+I also make music, so I like projects where code and sound meet.
 
-- 🛠️ Building **[Convrt](https://github.com/atuuuuuuu/Convrt)**, an offline file converter for the Mac menu bar
-- 🌍 Hacking on **Earth Jukebox** for NASA Space Apps 2026: turning NASA ocean temperature maps into music you can hear
-- 📷 Made **[photo-renamer](https://github.com/atuuuuuuu/photo-renamer)**
-- 🌱 Learning more Swift, WebGL and audio programming
+**[Unpacked](#unpacked)** · **[Convrt](#convrt)** · [Other work](#other-work) · [Toolbox](#toolbox)
 
-## 🚀 Featured projects
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/atuuuuuuu/Convrt">
-        <img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/app-icon.png" alt="" width="56" align="left">
-      </a>
-      <h3>&nbsp;<a href="https://github.com/atuuuuuuu/Convrt">Convrt</a></h3>
-      <p><b>Drag a file. Hold Shift. Drop it on a format.</b><br>
-      A tiny, fully offline file converter that lives in the menu bar. A radial wheel of formats pops up right at your cursor, and the converted copy lands next to the original. Nothing is overwritten and nothing leaves your Mac.</p>
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-      <img src="https://img.shields.io/badge/SwiftUI_+_AppKit-0a84ff?style=flat-square&logo=apple&logoColor=white" alt="SwiftUI and AppKit">
-      <img src="https://img.shields.io/badge/100%25-offline-2ea44f?style=flat-square" alt="100% offline">
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Earth Jukebox</h3>
-      <p><b>NASA Space Apps 2026: The Earth Information Jukebox.</b><br>
-      NASA sea surface temperature maps become music, live in the browser: warmer than normal sounds higher, and the ocean moves from your left ear to your right. A 3D WebGL globe shows what's playing, El Niño rings a bell, you can tap the ocean to hear it, and <i>Hear the change</i> plays two months back to back. Built accessibility first: everything works with a keyboard and a screen reader.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
-      <img src="https://img.shields.io/badge/Tone.js-f734d7?style=flat-square" alt="Tone.js">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/atuuuuuuu/AI-ChatAssistant">AI ChatAssistant</a></h3>
-      <p>A voice-controlled Chrome extension that searches, navigates, and describes web pages using on-device Gemini Nano. Built for a school assignment.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension">
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/atuuuuuuu/site">site</a></h3>
-      <p>My corner of the web: a hand-written HTML page, no frameworks.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3">
-    </td>
-  </tr>
-</table>
+## Selected work
 
-## 🧰 Toolbox
+<br>
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+<div align="center">
+  <a href="https://atuuuuuuu.github.io/unpacked/"><img src="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/logo.svg" width="56" height="56" alt="Unpacked logo"></a>
+  <h3 id="unpacked">Unpacked</h3>
+  <p><b>Your data exports, unpacked. Privately.</b><br>
+  Drop the ZIP that Spotify, Instagram or YouTube gives you and get clear charts and lists, computed entirely in your browser.</p>
+  <a href="https://atuuuuuuu.github.io/unpacked/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/landing-dark.png">
+      <img src="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/landing-light.png" width="100%" alt="Unpacked landing page with a sample Spotify dashboard: hours per year and top artists">
+    </picture>
+  </a>
+  <p>
+    <a href="https://atuuuuuuu.github.io/unpacked/"><img src="https://img.shields.io/badge/Live_demo-0b7a75?style=for-the-badge" alt="Live demo"></a>
+    <a href="https://github.com/atuuuuuuu/unpacked"><img src="https://img.shields.io/badge/Source-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"></a>
+  </p>
+</div>
 
-**Frameworks and platforms**<br>
-<img src="https://img.shields.io/badge/SwiftUI-0a84ff?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"> <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
+- **Three platforms:** Spotify listening history, Instagram followers (including who unfollowed you, by comparing two
+  exports) and YouTube watch history.
+- **Nothing leaves your device.** The ZIP is read in a Web Worker, a strict CSP blocks every other site, and an
+  end-to-end test fails the build if any request goes out.
+- **Works offline** as an installable app, with sample data to try before your export arrives.
+- **Share cards:** a 1080×1350 image of your stats, drawn on your device.
 
-**Tools**<br>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<sub><b>Stack</b> &nbsp; TypeScript · React 19 · Vite · Tailwind CSS · Radix · zip.js · Zod · d3 · Vitest · Playwright</sub>
 
-## 🎯 Right now
+<br><br>
 
-```text
-> studying      3rd year @ New Mongol College of Technology
-> shipping      Convrt beta, offline file conversion for macOS
-> hacking       Earth Jukebox for NASA Space Apps 2026
-> learning      Swift, WebGL and audio programming
-```
+<div align="center">
+  <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/app-icon.png" width="56" height="56" alt="Convrt app icon"></a>
+  <h3 id="convrt">Convrt</h3>
+  <p><b>Drag a file. Hold Shift. Drop it on a slice.</b><br>
+  A macOS menu bar app that opens a wheel of formats and tools right at your cursor. Fully offline, no account.</p>
+  <a href="https://github.com/atuuuuuuu/Convrt">
+    <img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/wheels.png" width="100%" alt="Convrt's three wheels: Convert, Tools and Actions">
+  </a>
+  <p>
+    <a href="https://github.com/atuuuuuuu/Convrt/releases/latest"><img src="https://img.shields.io/badge/Download_v1.0-2f6fe0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Convrt"></a>
+    <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://img.shields.io/badge/Source-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"></a>
+  </p>
+</div>
 
-<p align="center">
-  <sub>Thanks for stopping by. Star something you like ⭐</sub>
-</p>
+- **Convert** images, audio, video and PDFs. The wheel only shows what fits the files you're dragging.
+- **Tools** like compress, resize, strip EXIF and GPS, cut out the background, trim video and merge PDFs.
+- **Beyond the wheel:** a Drop Zone window, a floating shelf, watch folders and a `convrt` command-line tool on the
+  same engine.
+- **Safe by default:** results land next to the originals, nothing is overwritten, and there is no network code at all.
+
+<sub><b>Stack</b> &nbsp; Swift · SwiftUI · AppKit · AVFoundation · PDFKit · Vision · GitHub Actions</sub>
+
+<br><br>
+
+## Other work
+
+**Earth Jukebox** &nbsp;<sub>NASA Space Apps 2026 · private for now</sub><br>
+NASA sea surface temperature maps turned into music in the browser: warmer water sounds higher, the ocean sweeps from
+your left ear to your right, and a WebGL globe shows what's playing. Built to work with a keyboard and a screen reader.
+
+**[AI ChatAssistant](https://github.com/atuuuuuuu/AI-ChatAssistant)** &nbsp;<sub>school project</sub><br>
+A voice-controlled Chrome extension that searches, navigates and describes web pages with on-device Gemini Nano.
+
+**Learning projects** &nbsp;<sub>one file each, built to learn from</sub><br>
+[study-timer](https://github.com/atuuuuuuu/study-timer) (a focus timer) ·
+[budget-tracker](https://github.com/atuuuuuuu/budget-tracker) (a family budget) ·
+[photo-renamer](https://github.com/atuuuuuuu/photo-renamer) (renames photos by date)
+
+<br>
+
+## Toolbox
+
+<a href="#toolbox"><img src="https://skillicons.dev/icons?i=swift,apple,ts,js,react,vite,tailwind,py,cpp,html,css,nodejs,electron,githubactions,git&perline=15" alt="Swift, macOS, TypeScript, JavaScript, React, Vite, Tailwind CSS, Python, C++, HTML, CSS, Node.js, Electron, GitHub Actions, Git" width="100%"></a>
+
+Right now I'm learning more **Swift**, **WebGL** and **audio programming**.
+
+<br>
+
+<div align="center">
+  <sub>Found a bug or have an idea? Open an issue on any of my repos.</sub>
+</div>
