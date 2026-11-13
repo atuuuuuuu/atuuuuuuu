@@ -69,8 +69,8 @@
     <text x="896" y="82" text-anchor="end" class="mono" font-size="11" fill="#7d8590">~/Developer</text>
     <line x1="610" y1="96" x2="912" y2="96" stroke="#ffffff" stroke-opacity=".1"/>
     <g class="mono" font-size="14" fill="#e6edf3">
-      <circle cx="634" cy="124" r="4" fill="#2bb5ad"/><text x="650" y="129">unpacked</text><text x="896" y="129" text-anchor="end" font-size="11" fill="#7d8590">TypeScript</text>
-      <circle cx="634" cy="156" r="4" fill="#4c8dff"/><text x="650" y="161">Convrt</text><text x="896" y="161" text-anchor="end" font-size="11" fill="#7d8590">Swift</text>
+      <circle cx="634" cy="124" r="4" fill="#4c8dff"/><text x="650" y="129">Convrt</text><text x="896" y="129" text-anchor="end" font-size="11" fill="#7d8590">Swift</text>
+      <circle cx="634" cy="156" r="4" fill="#2bb5ad"/><text x="650" y="161">unpacked</text><text x="896" y="161" text-anchor="end" font-size="11" fill="#7d8590">TypeScript</text>
       <circle cx="634" cy="188" r="4" fill="#e8743b"/><text x="650" y="193">earth-jukebox</text><text x="896" y="193" text-anchor="end" font-size="11" fill="#7d8590">JavaScript</text>
     </g>
   </g>

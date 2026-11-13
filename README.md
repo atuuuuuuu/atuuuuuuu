@@ -9,13 +9,37 @@ I'm a 3rd-year student at **New Mongol College of Technology** in Ulaanbaatar. I
 and the browser: the kind that do one job well and keep your files and your data on your own device.
 Curious about how things work, so I build small tools to find out.
 
-**[Unpacked](#unpacked)** · **[Convrt](#convrt)** · [Other work](#other-work) · [Toolbox](#toolbox)
+**[Convrt](#convrt)** · **[Unpacked](#unpacked)** · [Other work](#other-work) · [Toolbox](#toolbox)
 
 <br>
 
 ## Selected work
 
 <br>
+
+<div align="center">
+  <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/app-icon.png" width="56" height="56" alt="Convrt app icon"></a>
+  <h3 id="convrt">Convrt</h3>
+  <p><b>Drag a file. Hold Shift. Drop it on a slice.</b><br>
+  A macOS menu bar app that opens a wheel of formats and tools right at your cursor. Fully offline, no account.</p>
+  <a href="https://github.com/atuuuuuuu/Convrt">
+    <img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/wheels.png" width="100%" alt="Convrt's three wheels: Convert, Tools and Actions">
+  </a>
+  <p>
+    <a href="https://github.com/atuuuuuuu/Convrt/releases/latest"><img src="https://img.shields.io/badge/Download_v1.0-2f6fe0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Convrt"></a>
+    <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://img.shields.io/badge/Source-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"></a>
+  </p>
+</div>
+
+- **Convert** images, audio, video and PDFs. The wheel only shows what fits the files you're dragging.
+- **Tools** like compress, resize, strip EXIF and GPS, cut out the background, trim video and merge PDFs.
+- **Beyond the wheel:** a Drop Zone window, a floating shelf, watch folders and a `convrt` command-line tool on the
+  same engine.
+- **Safe by default:** results land next to the originals, nothing is overwritten, and there is no network code at all.
+
+<sub><b>Stack</b> &nbsp; Swift · SwiftUI · AppKit · AVFoundation · PDFKit · Vision · GitHub Actions</sub>
+
+<br><br>
 
 <div align="center">
   <a href="https://atuuuuuuu.github.io/unpacked/"><img src="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/logo.svg" width="56" height="56" alt="Unpacked logo"></a>
@@ -42,30 +66,6 @@ Curious about how things work, so I build small tools to find out.
 - **Share cards:** a 1080×1350 image of your stats, drawn on your device.
 
 <sub><b>Stack</b> &nbsp; TypeScript · React 19 · Vite · Tailwind CSS · Radix · zip.js · Zod · d3 · Vitest · Playwright</sub>
-
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/app-icon.png" width="56" height="56" alt="Convrt app icon"></a>
-  <h3 id="convrt">Convrt</h3>
-  <p><b>Drag a file. Hold Shift. Drop it on a slice.</b><br>
-  A macOS menu bar app that opens a wheel of formats and tools right at your cursor. Fully offline, no account.</p>
-  <a href="https://github.com/atuuuuuuu/Convrt">
-    <img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/wheels.png" width="100%" alt="Convrt's three wheels: Convert, Tools and Actions">
-  </a>
-  <p>
-    <a href="https://github.com/atuuuuuuu/Convrt/releases/latest"><img src="https://img.shields.io/badge/Download_v1.0-2f6fe0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Convrt"></a>
-    <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://img.shields.io/badge/Source-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"></a>
-  </p>
-</div>
-
-- **Convert** images, audio, video and PDFs. The wheel only shows what fits the files you're dragging.
-- **Tools** like compress, resize, strip EXIF and GPS, cut out the background, trim video and merge PDFs.
-- **Beyond the wheel:** a Drop Zone window, a floating shelf, watch folders and a `convrt` command-line tool on the
-  same engine.
-- **Safe by default:** results land next to the originals, nothing is overwritten, and there is no network code at all.
-
-<sub><b>Stack</b> &nbsp; Swift · SwiftUI · AppKit · AVFoundation · PDFKit · Vision · GitHub Actions</sub>
 
 <br><br>
 
