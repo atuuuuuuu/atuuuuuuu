@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="assets/card.svg" alt="atu@github: ASCII art of my cat in glasses, next to my info, projects, contact and GitHub stats." width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Mongolia-0f1534?style=flat-square" alt="Based in Mongolia">
-  <img src="https://img.shields.io/badge/🎓_New_Mongol_College_of_Technology-3rd_year-2f6fe0?style=flat-square" alt="3rd-year student at New Mongol College of Technology">
-  <img src="https://img.shields.io/badge/🚀_NASA_Space_Apps-2026-e8a317?style=flat-square" alt="NASA Space Apps 2026">
-  <img src="https://komarev.com/ghpvc/?username=atuuuuuuu&style=flat-square&color=6f42c1&label=profile+views" alt="Profile views">
-</p>
 
 ## 👋 Hey, I'm Usukhbayar.
 
