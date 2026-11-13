@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Usukhbayar (atu), Ulaanbaatar, Mongolia. Curious about how things work, so I build small tools to find out." width="100%">
+  <img src="assets/banner-light.svg" alt="Hey, I'm Usukhbayar. Student in Ulaanbaatar, Mongolia, building small tools for the Mac and the browser." width="100%">
 </picture>
 
 <br>
 
 I'm a 3rd-year student at **New Mongol College of Technology** in Ulaanbaatar. I build small, focused tools for the Mac
 and the browser: the kind that do one job well and keep your files and your data on your own device.
-I also make music, so I like projects where code and sound meet.
+Curious about how things work, so I build small tools to find out.
 
 **[Unpacked](#unpacked)** · **[Convrt](#convrt)** · [Other work](#other-work) · [Toolbox](#toolbox)
 
@@ -72,8 +72,8 @@ I also make music, so I like projects where code and sound meet.
 ## Other work
 
 **Earth Jukebox** &nbsp;<sub>NASA Space Apps 2026 · private for now</sub><br>
-NASA sea surface temperature maps turned into music in the browser: warmer water sounds higher, the ocean sweeps from
-your left ear to your right, and a WebGL globe shows what's playing. Built to work with a keyboard and a screen reader.
+NASA sea surface temperature data explored in the browser on a 3D WebGL globe, from month-by-month maps to global
+temperature since 1880. Built to work with a keyboard and a screen reader.
 
 **[AI ChatAssistant](https://github.com/atuuuuuuu/AI-ChatAssistant)** &nbsp;<sub>school project</sub><br>
 A voice-controlled Chrome extension that searches, navigates and describes web pages with on-device Gemini Nano.
@@ -89,7 +89,7 @@ A voice-controlled Chrome extension that searches, navigates and describes web p
 
 <a href="#toolbox"><img src="https://skillicons.dev/icons?i=swift,apple,ts,js,react,vite,tailwind,py,cpp,html,css,nodejs,electron,githubactions,git&perline=15" alt="Swift, macOS, TypeScript, JavaScript, React, Vite, Tailwind CSS, Python, C++, HTML, CSS, Node.js, Electron, GitHub Actions, Git" width="600"></a>
 
-Right now I'm learning more **Swift**, **WebGL** and **audio programming**.
+Right now I'm learning more **Swift** and **WebGL**.
 
 <br>
 
