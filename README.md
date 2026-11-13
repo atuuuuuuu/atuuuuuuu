@@ -24,8 +24,8 @@ I also make music, so I like projects where code and sound meet.
   Drop the ZIP that Spotify, Instagram or YouTube gives you and get clear charts and lists, computed entirely in your browser.</p>
   <a href="https://atuuuuuuu.github.io/unpacked/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/landing-dark.png">
-      <img src="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/landing-light.png" width="100%" alt="Unpacked landing page with a sample Spotify dashboard: hours per year and top artists">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/spotify-dark.png">
+      <img src="https://raw.githubusercontent.com/atuuuuuuu/unpacked/main/docs/media/spotify-light.png" width="100%" alt="Unpacked Spotify dashboard with sample data: listening time, hours per year and highlights">
     </picture>
   </a>
   <p>
@@ -87,7 +87,7 @@ A voice-controlled Chrome extension that searches, navigates and describes web p
 
 ## Toolbox
 
-<a href="#toolbox"><img src="https://skillicons.dev/icons?i=swift,apple,ts,js,react,vite,tailwind,py,cpp,html,css,nodejs,electron,githubactions,git&perline=15" alt="Swift, macOS, TypeScript, JavaScript, React, Vite, Tailwind CSS, Python, C++, HTML, CSS, Node.js, Electron, GitHub Actions, Git" width="100%"></a>
+<a href="#toolbox"><img src="https://skillicons.dev/icons?i=swift,apple,ts,js,react,vite,tailwind,py,cpp,html,css,nodejs,electron,githubactions,git&perline=15" alt="Swift, macOS, TypeScript, JavaScript, React, Vite, Tailwind CSS, Python, C++, HTML, CSS, Node.js, Electron, GitHub Actions, Git" width="600"></a>
 
 Right now I'm learning more **Swift**, **WebGL** and **audio programming**.
 
