@@ -9,13 +9,38 @@ I'm a 3rd-year student at **New Mongol College of Technology** in Ulaanbaatar. I
 and the browser: the kind that do one job well and keep your files and your data on your own device.
 Curious about how things work, so I build small tools to find out.
 
-**[Convrt](#convrt)** · **[Unpacked](#unpacked)** · [Other work](#other-work) · [Toolbox](#toolbox)
+**[Scrollr](#scrollr)** · **[Convrt](#convrt)** · **[Unpacked](#unpacked)** · [Other work](#other-work) · [Toolbox](#toolbox)
 
 <br>
 
 ## Selected work
 
 <br>
+
+<div align="center">
+  <a href="https://github.com/atuuuuuuu/Scrollr"><img src="https://raw.githubusercontent.com/atuuuuuuu/Scrollr/main/assets/logo.png" width="56" height="56" alt="Scrollr app icon"></a>
+  <h3 id="scrollr">Scrollr</h3>
+  <p><b>Reverse your mouse. Keep your trackpad.</b><br>
+  A macOS menu bar app that flips the scroll direction of external mice only, so the trackpad keeps the setting you chose.</p>
+  <a href="https://github.com/atuuuuuuu/Scrollr">
+    <img src="https://raw.githubusercontent.com/atuuuuuuu/Scrollr/main/assets/showcase.png" width="100%" alt="Scrollr's menu and the Mice tab of its Settings window, with a connected USB mouse">
+  </a>
+  <p>
+    <a href="https://github.com/atuuuuuuu/Scrollr/releases/latest"><img src="https://img.shields.io/badge/Download-e8366b?style=for-the-badge&logo=apple&logoColor=white" alt="Download Scrollr"></a>
+    <a href="https://github.com/atuuuuuuu/Scrollr"><img src="https://img.shields.io/badge/Source-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"></a>
+  </p>
+</div>
+
+- **Mouse only.** Wheel scrolls are flipped; trackpad scrolls, which macOS sends in touch phases, pass through
+  untouched. The global Natural scrolling setting is never changed.
+- **Detects mice automatically** over USB and Bluetooth, with an on/off switch for each mouse.
+- **Settings for the details:** up and down, left and right, launch at login, and a live check of what your last
+  scroll came from.
+- **Light:** no polling and no network code; it reacts only to scroll events.
+
+<sub><b>Stack</b> &nbsp; Swift · SwiftUI · AppKit · Core Graphics event taps · IOKit HID · Swift Package Manager</sub>
+
+<br><br>
 
 <div align="center">
   <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/app-icon.png" width="56" height="56" alt="Convrt app icon"></a>
@@ -26,7 +51,7 @@ Curious about how things work, so I build small tools to find out.
     <img src="https://raw.githubusercontent.com/atuuuuuuu/Convrt/main/assets/wheels.png" width="100%" alt="Convrt's three wheels: Convert, Tools and Actions">
   </a>
   <p>
-    <a href="https://github.com/atuuuuuuu/Convrt/releases/latest"><img src="https://img.shields.io/badge/Download_v1.0-2f6fe0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Convrt"></a>
+    <a href="https://github.com/atuuuuuuu/Convrt/releases/latest"><img src="https://img.shields.io/badge/Download-2f6fe0?style=for-the-badge&logo=apple&logoColor=white" alt="Download Convrt"></a>
     <a href="https://github.com/atuuuuuuu/Convrt"><img src="https://img.shields.io/badge/Source-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"></a>
   </p>
 </div>
